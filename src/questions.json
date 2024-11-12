@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": [
+        "Berlin",
+        "Madrid",
+        "Paris",
+        "Rome"
+      ],
+      "correctOption": "Paris"
+    },
+    {
+      "id": 2,
+      "question": "What is the largest planet in our Solar System?",
+      "options": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctOption": "Jupiter"
+    },
+    {
+      "id": 3,
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": [
+        "Gold",
+        "Oxygen",
+        "Osmium",
+        "Hydrogen"
+      ],
+      "correctOption": "Oxygen"
+    },
+    {
+      "id": 4,
+      "question": "What is the square root of 64?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctOption": "8"
+    }
+]
