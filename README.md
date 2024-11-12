@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -33,3 +34,6 @@ A responsive and interactive Quiz Application built with React. This app provide
 
    ```bash
    git clone https://github.com/shushanth2003/Quiz-App.git
+=======
+# Quiz-App
+>>>>>>> 8edcdeb4075a7cf3a3f473bf0a279780932997ee
